@@ -1,0 +1,23 @@
+{
+  "repo": "roland-cloud-vst-factory-premium",
+  "product": "Roland Cloud VST Factory Premium",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "audio",
+  "topics": [
+    "roland-cloud",
+    "zenology-vst",
+    "hardware-synths",
+    "cloud-instruments",
+    "juno-models",
+    "roland-setup-failed-fix",
+    "how-to-install-roland",
+    "roland-windows",
+    "roland-desktop-2026",
+    "roland-desktop-package"
+  ],
+  "site": "toolix.me"
+}
